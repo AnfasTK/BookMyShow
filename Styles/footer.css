@@ -1,0 +1,122 @@
+
+.footer-section-1-container{
+    background-color: #313035;
+}
+.footer-section-1{
+    display: flex;
+    align-items: center;
+    margin: 0px auto;
+    max-width: 1240px;
+    padding: 15px;
+}
+.fotr-sec-1-image{
+    padding: 8px;
+}
+.sentence-first-section-1{
+    color: #FFFFFF;
+    font-weight: 600;
+    margin: 0px 16px 0px 4px;
+}
+.sentence-second-section-1{
+    color: #FFFFFF;
+    font-weight: 400;
+}
+.footer-section-2-container{
+    background-color: #404043;
+}
+.footer-section-2{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px auto;
+    max-width: 1240px;
+    padding: 15px;
+}
+.help-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.help-img{
+    width: 50px;
+}
+.help-img-1{
+    width:100% ;
+}
+.help-text{
+    font-size: 11px;
+    color: #BCC0C4BD;
+    white-space: nowrap;
+    margin-top: 10px;
+    line-height: 18px;
+}
+.footer-section-3-container{
+    background-color: #333338;
+}
+.footer-section-3-box{
+    margin: 0px auto;
+    max-width: 1240px;
+    padding-top: 25px;
+}
+.footer-link-heading{
+    color: #A5A5A5;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+.footer-link{
+    display: flex;
+}
+.footer-option-link{
+    text-transform: capitalize;
+    font-size: 11px;
+    margin: 0px 5px 5px 0px;
+    letter-spacing: 0.1px;
+    text-decoration: none;
+    color: rgb(127, 127, 127);
+    padding-right: 5px;
+    border-right: 1px solid rgb(127, 127, 127);
+    transition: color 0.25s ease-in-out;
+}
+.footer-option-link:hover{
+    color: #FFFFFF;
+}
+.footer-section-4-container{
+    display: flex;
+    background-color: #333338;
+    padding: 15px 24px 20px;
+}
+.footer-section-4{
+    width: 100%;
+}
+.divider-logo{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    height: 125px;
+}
+.divider{
+    flex: 1 1 0%;
+    height: 1px;
+    background-color: rgb(93, 93, 95);
+}
+.divid-logo{
+    padding: 0px 20px;
+}
+.social-media-links{
+    text-align: center;
+}
+.social-media-icons{
+    display: inline-block;
+    margin-right: 10px;
+    width: 37px;
+    height: 37px;
+}
+.coptright-info{
+    padding: 30px;
+    font-size: 11px;
+    color: rgb(102, 102, 102);
+    text-align: center;
+}

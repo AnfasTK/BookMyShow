@@ -1,0 +1,33 @@
+.navigation-bar-container{
+    background: rgb(245, 245, 245);
+}
+.navigation-bar{
+    display: flex;
+    height: 40px;
+    max-width: 1240px;
+    width: 92%;
+    margin: 0px auto;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-left-section-options{
+    text-decoration: none;
+    color: #333333;
+    font-size: 14px;
+    padding: 0px 10px;
+}
+#nav-left-section-options-leftside{
+    padding: 0px 10px 0px 0px;
+}
+#nav-left-section-options-rightside{
+    padding: 0px 16px 0px 10px;
+}
+.nav-right-section-options{
+    text-decoration: none;
+    color: #333333;
+    font-size: 12px;
+    padding: 0px 12px;
+}
+#nav-right-section-options-rightside{
+    padding: 0px 0px 0px 12px;
+}
